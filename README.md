@@ -12,4 +12,4 @@ Se você tem sugestões ou quer colaborar, fique à vontade para abrir issues ou
 
 ## 📬 Contato
 
-Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/pedrovitorino2004) ou confira meus outros projetos no [GitHub](https://github.com/pedrovitorino07).
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/pedro-vitorino2004/) ou confira meus outros projetos no [GitHub](https://github.com/pedrovitorino07).
